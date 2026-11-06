@@ -8,7 +8,7 @@
 
 [Mở notebook `day01_spam_ml_dl_embedding_llm.ipynb` trên Colab](https://colab.research.google.com/github/VinUni-AI20k/K5-L3-Day-01-AI-Foundation-Lab/blob/main/src/day01_spam_ml_dl_embedding_llm.ipynb)
 
-> **Bài nộp:** repository GitHub `K5-L3-DAY01-HoVaTen-MSSV-AIFoundation` có thư mục `report/individual/`; chỉ nộp **link repo** trên LMS (chi tiết: [SUBMISSION.md](SUBMISSION.md)).
+> **Bài nộp:** repository GitHub `K5-L3A-Day01-VuTrongQuang-2A202603535-LLMFoundation` có thư mục `report/individual/`; chỉ nộp **link repo** trên LMS (chi tiết: [SUBMISSION.md](SUBMISSION.md)).
 
 Bạn giải **cùng một bài toán** là phân loại SMS thành `spam` hay `ham` (tin bình thường) bằng **4 cách**, theo đúng
 lịch sử AI trong slide Ngày 1. Cuối bài, bạn so sánh 4 cách trên cùng một tập test về chất lượng, tốc độ và chi phí.
